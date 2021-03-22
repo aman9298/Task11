@@ -1,0 +1,5 @@
+[slave]
+IP ansible_user=root	ansible_ssh_pass=redhat  ansible_connection=ssh
+
+[master]
+IP  ansible_user=root   ansible_ssh_pass=redhat    ansible_connection=ssh
