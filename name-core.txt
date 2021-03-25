@@ -1,0 +1,6 @@
+<configuration>
+        <property>
+                <name>fs.default.name</name>
+                <value>{{direc_nn}}</value>
+        </property>
+</configuration>
